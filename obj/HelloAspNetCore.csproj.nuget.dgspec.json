@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\HelloAspNetCore.csproj": {}
+    "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\HelloAspNetCore.csproj": {}
   },
   "projects": {
-    "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\HelloAspNetCore.csproj": {
+    "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\HelloAspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\HelloAspNetCore.csproj",
+        "projectUniqueName": "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\HelloAspNetCore.csproj",
         "projectName": "HelloAspNetCore",
-        "projectPath": "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\HelloAspNetCore.csproj",
+        "projectPath": "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\HelloAspNetCore.csproj",
         "packagesPath": "C:\\Users\\syilmaz\\.nuget\\packages\\",
-        "outputPath": "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\obj\\",
+        "outputPath": "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

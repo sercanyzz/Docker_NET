@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRZ62/NLe0UAKvmuWFRs+qFWOvIRW8TxW2rHwjthxPbToxZBeHRHNnP/TGMbUxKJjP3lPsewO4memPx3aGQ7cQ==",
+  "dgSpecHash": "vQvZkGhLsoB0I1nu5Z3AiatV9fgBJz8ZmQQ8pSR5fPkKXQe/rGu5YzhFrHVqSENuwN38SmaoZF78W1521Ekb7A==",
   "success": true,
-  "projectFilePath": "D:\\SERCAN\\DevOps\\Docs\\Docker-Kubernetes\\Docker ASP.NET Project\\HelloAspNetCoreAKS\\HelloAspNetCore.csproj",
+  "projectFilePath": "D:\\SERCAN\\DevOps\\Wiki\\Azure Kubernetes Service ve Rancher\\Projects\\Docker_NET\\HelloAspNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\syilmaz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
     "C:\\Users\\syilmaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
