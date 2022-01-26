@@ -22,6 +22,6 @@ namespace HelloAspNetCore
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-                //author sercanyzz 26.01.2022
+                //Author Sercan Yılmaz 26.01.2022
     }
 }
